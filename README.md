@@ -80,6 +80,6 @@ Because the build is a single self-contained HTML file, no `base` path configura
 
 ## Author
 
-**Your Name** — [@YOUR-USERNAME](https://github.com/pankajbhattacharjee)
+**Your Name** — [@pankajbhattacharjee](https://github.com/pankajbhattacharjee)
 
 
