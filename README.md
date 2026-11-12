@@ -3,7 +3,7 @@
 > One-sentence description of what this app does and who it's for.
 > _(Replace this with your own summary before submitting.)_
 
-**Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO/ _(available after enabling GitHub Pages — see below)_
+
 
 ---
 
@@ -80,8 +80,6 @@ Because the build is a single self-contained HTML file, no `base` path configura
 
 ## Author
 
-**Your Name** — [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**Your Name** — [@YOUR-USERNAME](https://github.com/pankajbhattacharjee)
 
-## License
 
-This project is submitted for educational purposes. _(Add a license such as MIT if you want others to reuse it.)_
